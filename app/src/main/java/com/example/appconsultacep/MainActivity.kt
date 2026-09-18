@@ -45,6 +45,6 @@ class MainActivity : AppCompatActivity() {
                 txtLocal.setText(endereco.localidade)
                 txtDDD.setText(endereco.ddd)
             }
-        }
+        //coisa aleatória aaaaaaa
     }
 }
